@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ADIM SAYAR</string>
+    <string name="notification_channel">Adım takibi</string>
+    <string name="notification_description">Aktif adım takibi bildirimi</string>
+</resources>
