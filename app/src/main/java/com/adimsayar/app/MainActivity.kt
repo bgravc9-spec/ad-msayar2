@@ -196,7 +196,7 @@ class MainActivity : Activity() {
     private fun scrollPage(): Pair<ScrollView, LinearLayout> {
         val scroll = ScrollView(this).apply {
             clipToPadding = false
-            fillViewport = true
+            isFillViewport = true
             isVerticalScrollBarEnabled = false
         }
         val inner = vertical().apply {
